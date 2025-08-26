@@ -1,0 +1,17 @@
+.weather-card {
+  margin-top: 20px;
+  padding: 16px;
+  background: #f9fafb;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.weather-card h2 {
+  margin: 0 0 8px;
+}
+
+.temperature {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 8px 0;
+}
