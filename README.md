@@ -14,7 +14,7 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Demo
-![App Screenshot](./C:\Users\jnane\Pictures\Screenshot 2025-08-26 153302.png) <!-- (optional: add a screenshot of your app) -->
+![App Screenshot](C:\Users\jnane\Pictures\Screenshot 2025-08-26 153302.png) <!-- (optional: add a screenshot of your app) -->
 
 Live Demo (CodeSandbox): [Weather Now](https://your-link-here)  
 
